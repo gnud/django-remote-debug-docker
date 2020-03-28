@@ -9,7 +9,8 @@ Open this project with root as djproj in the IDE.
 
 In the IDE create a new "Python remote debug" config.
 
-Find the "pydevd-pycharm.egg" file found in debug-eggs/ of the Pycharm Pro installation.
+Find the "pydevd-pycharm.egg" file found in debug-eggs/ of the Pycharm Pro installation and copy it in the tools
+directory besides the .git-keep file
 
 Now run the config with debug.
 
